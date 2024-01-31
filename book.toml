@@ -1,0 +1,6 @@
+[book]
+authors = ["Dangerise"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Dangerise's Blog"
