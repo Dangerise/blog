@@ -1,6 +1,11 @@
 [book]
 authors = ["Dangerise"]
-language = "en"
+language = "zh_cn"
 multilingual = false
 src = "src"
 title = "Dangerise's Blog"
+
+
+[output.html]
+edit-url-template = "https://github.com/Dangerised/blog/{path}"
+git-repository-url = "https://github.com/Dangerised/blog"
