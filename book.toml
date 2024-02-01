@@ -7,5 +7,5 @@ title = "Dangerise's Blog"
 
 
 [output.html]
-edit-url-template = "https://github.com/Dangerised/blog/{path}"
-git-repository-url = "https://github.com/Dangerised/blog"
+edit-url-template = "https://github.com/Dangerised/blog/blob/master/{path}"
+git-repository-url = "ttps://github.com/Dangerised/blog"
