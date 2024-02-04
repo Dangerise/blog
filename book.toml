@@ -5,6 +5,8 @@ multilingual = false
 src = "src"
 title = "Dangerise's Blog"
 
+[preprocessor.katex]
+after = ["links"]
 
 [output.html]
 edit-url-template = "https://github.com/Dangerised/blog/blob/master/{path}"
