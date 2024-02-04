@@ -1,4 +1,4 @@
-[首页](home_page.md)
+[首页](home-page.md)
 
 # OI
 

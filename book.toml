@@ -8,6 +8,15 @@ title = "Dangerise's Blog"
 [preprocessor.katex]
 after = ["links"]
 
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
 [output.html]
 edit-url-template = "https://github.com/Dangerised/blog/blob/master/{path}"
-git-repository-url = "ttps://github.com/Dangerised/blog"
+git-repository-url = "https://github.com/Dangerised/blog"
+additional-js = [
+    "assets/mermaid.min.js",
+    "assets/mermaid-init.js",
+    "assets/elasticlunr.js",
+    "assets/fzf.umd.js",
+]
