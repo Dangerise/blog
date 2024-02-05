@@ -183,3 +183,13 @@ git push origin master
 附一张成功的截图
 
 ![](yay_succeed.png)
+
+<script
+  src="https://utteranc.es/client.js"
+  repo="Dangerised/blog-issues"
+  issue-term="rust-aur"
+  theme="github-light"
+  crossorigin="anonymous"
+  async
+>
+</script>

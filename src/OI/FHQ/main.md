@@ -349,3 +349,13 @@ int main() {
   return 0;
 }
 ```
+
+<script
+  src="https://utteranc.es/client.js"
+  repo="Dangerised/blog-issues"
+  issue-term="FHQ-treap"
+  theme="github-light"
+  crossorigin="anonymous"
+  async
+>
+</script>
