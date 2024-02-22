@@ -7,4 +7,5 @@
 # 文章
 
 - [Rust AUR打包教程](articles/rust-aur/index.md)
+- [脚本语言](articles/my-script/my-script.md)
 
